@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj": {}
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj": {
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj",
+        "projectUniqueName": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj",
         "projectName": "NetworkApi.Business",
-        "projectPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj",
+        "projectPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\NetworkApi.Business.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\obj\\",
+        "outputPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

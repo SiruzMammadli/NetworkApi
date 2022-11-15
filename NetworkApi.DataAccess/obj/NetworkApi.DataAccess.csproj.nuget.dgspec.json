@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj": {}
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj": {
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj",
+        "projectUniqueName": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj",
         "projectName": "NetworkApi.DataAccess",
-        "projectPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj",
+        "projectPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\NetworkApi.DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\obj\\",
+        "outputPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

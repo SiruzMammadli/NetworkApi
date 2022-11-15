@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj": {}
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj": {
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
+        "projectUniqueName": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
         "projectName": "NetworkApi.Entities",
-        "projectPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
+        "projectPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\obj\\",
+        "outputPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj": {}
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj": {
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj",
+        "projectUniqueName": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj",
         "projectName": "NetworkApi.Core",
-        "projectPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj",
+        "projectPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\NetworkApi.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\obj\\",
+        "outputPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

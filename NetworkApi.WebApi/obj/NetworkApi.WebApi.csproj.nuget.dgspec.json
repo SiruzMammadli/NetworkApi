@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj": {}
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj": {
+    "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj",
+        "projectUniqueName": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj",
         "projectName": "NetworkApi.WebApi",
-        "projectPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj",
+        "projectPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\NetworkApi.WebApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\obj\\",
+        "outputPath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
