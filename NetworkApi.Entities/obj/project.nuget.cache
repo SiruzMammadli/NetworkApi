@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lzBMn1VnJiZREDWh6myo6S3/kPO8mGQ2gAEe9UDC/dfPubCHnfk/IiLQ4pc1B0G1c7Z509o4JB8jfI2XbrnlDg==",
+  "dgSpecHash": "fPItKam77/fW2FSchP0DDmtgAQ63biWrnAfhUX/6cVOnqNHPsvpOedCZsxfX3NostEGoBA3YDbLOPnPXcBH/Tg==",
   "success": true,
-  "projectFilePath": "D:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
+  "projectFilePath": "d:\\WORK\\CSharp\\withReact\\NetworkApi\\NetworkApi.Entities\\NetworkApi.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
